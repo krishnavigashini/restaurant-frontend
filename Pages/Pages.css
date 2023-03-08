@@ -1,0 +1,25 @@
+    .menu{
+    background-image:url('bg2.jpeg');
+    background-repeat:no-repeat;
+    background-size: 100%;
+    font-size:25px;
+    color:white;
+    width: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  .lg{
+    font-size: 55px;
+  }
+  .xlg{
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: Calibri;
+  }
+  .mt{
+    margin-top: 40px;
+  }
